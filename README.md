@@ -34,20 +34,8 @@ Despite the continuous development of anti-phishing techniques, attackers consta
 
 ---
 
-## 👨‍💻 Developed By | تطوير
 
-**Mohammed Ameen Saleh Albareda | محمد أمين صالح البارده**  
-Advanced AI Solutions Specialist | Cybersecurity Expert  
-أخصائي حلول الذكاء الاصطناعي المتقدمة | متخصص في أمن سيبراني  
-
-📧 mohmmedas2004@gmail.com  
-📱 +967775503801  
-
-*Designing innovative AI solutions while securing digital systems to drive smart and safe technology.*  
-*أصمم حلول ذكاء اصطناعي مبتكرة مع تأمين الأنظمة الرقمية لتحقيق تقنية ذكية وآمنة.*
-
-
-## ✍️ Engineer Development  | ✍️ تطوير المهندس
+## ✍️ Engineer Development  |  تطوير المهندس
 ##  Mohammed Ameen Saleh Albareda  | محمد امين صالح البارده
 
 Advanced AI Solutions Specialist | Cybersecurity Expert  
